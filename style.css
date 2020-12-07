@@ -1,0 +1,31 @@
+body {
+  line-height: 1.5;
+  background: url(https://i.loli.net/2020/12/07/4fE8FUXAGubLBml.jpg);
+  color: white;
+  font-family: "microsoft yahei";
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 50%;
+  background: rgba(0,0,0,0.5);
+  margin: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a {
+	color: #00F9A5;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2 {
+	margin-top: -30px;
+	font-size: 1.4em;
+}
